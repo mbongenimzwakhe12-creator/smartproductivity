@@ -1,4 +1,4 @@
-# Smart-office-Ai
+# Smart-productivity-Ai
 
 ## Project Overview
 Smart-office-Ai is an AI-powered workplace productivity assistant designed to automate workplace tasks and improve productivity.
